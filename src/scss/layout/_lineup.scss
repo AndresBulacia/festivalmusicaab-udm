@@ -44,12 +44,12 @@
 .bg-amarillo{
     background-color: v.$amarillo;
     li:nth-child(odd){
-        background-color: lighten(v.$amarillo, 8%);
+        background-color: rgb(255, 225.0909090909, 38.8);
     }
 }  
 .bg-verde{
     background-color: v.$verde;
     li:nth-child(odd){
-        background-color: lighten(v.$verde, 8%);
+        background-color: rgb(105.2128, 195.5872, 191.4032);
     }
 }
