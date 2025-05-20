@@ -1,0 +1,22 @@
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Entornos
+.env
+
+# Directorios de build
+dist/
+build/
+
+# Cobertura de tests
+coverage/
+
+# Archivos de sistema/IDE
+.DS_Store
+.idea/
+.vscode/
